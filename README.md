@@ -18,3 +18,6 @@ The LED layout has each addressed "pixel" having 3 subpixels, though all LEDs ar
 
 As I flesh out this project I'll add code for a generic pro micro to drive it.
 
+![pic](https://github.com/illiteratebeef/Generic-ebay-3rd-Brake-Arduinoization/blob/master/IMG_20190920_225231.jpg?raw=true)
+![pic](https://github.com/illiteratebeef/Generic-ebay-3rd-Brake-Arduinoization/blob/master/IMG_20190920_231013.jpg?raw=true)
+![pic](https://github.com/illiteratebeef/Generic-ebay-3rd-Brake-Arduinoization/blob/master/IMG_20191002_181819.jpg?raw=true)
