@@ -16,7 +16,6 @@ I tore down the strip to understand how it's communicating and found it's driven
 
 The LED layout has each addressed "pixel" having 3 subpixels, though all LEDs are red. The subpixels are wired such that from the feed of the string, the first 3 leds are driven in series as the Blue subpixel, the next 3 LEDs are drives as Green, then the next 3 as Red. This repeats for 16 total "pixels", 48 addressable portions of the string, 144 total LEDs.
 
-As I flesh out this project I'll add code for a generic pro micro to drive it.
 
 ![pic](https://github.com/illiteratebeef/Generic-ebay-3rd-Brake-Arduinoization/blob/master/IMG_20190920_225231.jpg?raw=true)
 ![pic](https://github.com/illiteratebeef/Generic-ebay-3rd-Brake-Arduinoization/blob/master/IMG_20190920_231013.jpg?raw=true)
